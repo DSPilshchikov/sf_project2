@@ -40,7 +40,7 @@
 ## Установка проекта
 
 ```
-git clone https://github.com/DSPilshchikov/sf_project1
+git clone https://github.com/DSPilshchikov/sf_project2
 ```
 
 ## Использование
